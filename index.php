@@ -467,7 +467,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="footer-top">
-                        <p>Have a project in mind?</p>
+                        <p>Let's Build Together?</p>
                         <h2><a href="mailto:utkarsh.officework@gmail.com">let's work</a></h2>
                     </div>
                 </div>
@@ -538,7 +538,7 @@ try {
 
     //Recipients
     $mail->setFrom('utkarshpratap03@gmail.com', 'contact Form');
-    $mail->addAddress('harshikarora22@gmail.com', 'Our Website');           //Add a recipient
+    $mail->addAddress('utkarsh.officework@gmail.com', 'Our Website');           //Add a recipient
   
 
  
