@@ -468,15 +468,11 @@
                 <div class="col-lg-12">
                     <div class="footer-top">
                         <p>Let's Build Together?</p>
-                        <h2><a href="mailto:utkarsh.officework@gmail.com">let's work</a></h2>
+                        <h2><a href="mailto:utkarsh.officework@gmail.com">let's Do it</a></h2>
                     </div>
                 </div>
             </div>
-           <!-- <div class="row">
-                <div class="col-lg-6 col-sm-6">
-                    <p class="copy-left-text">Template by<a
-                            href="https://themeforest.net/user/creativepersonal/portfolio">Creative Personal®</a></p>
-                </div>-->
+          
                 <div class="col-lg-6 col-sm-6">
                     <p class="copy-right-text"> Utkarshpratap&copy;Copyright 2025</p>
                 </div>
